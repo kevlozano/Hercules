@@ -1,0 +1,3 @@
+SSH: You specify a username and IP address to the ssh command (making sure there's a port that works). If the connection is valid it will ask your for the password, enter it and you're in.
+
+Graphic: choose a user and click on add, use the password of root to continue, it will let you create a username and passowrd.

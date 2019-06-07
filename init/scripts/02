@@ -1,0 +1,7 @@
+#!/bin/bash
+
+if [[ -d /home/$1 ]]; then
+	userdel -r $1
+fi
+
+exit

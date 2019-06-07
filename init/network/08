@@ -1,0 +1,1 @@
+if we do whois slash16.org | grep "Name Server" we can see that AWS is the provider for their server.

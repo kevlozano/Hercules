@@ -1,0 +1,10 @@
+#!/bin/bash
+	date;
+	echo "Uptime:"
+	uptime
+	echo "\n"
+	echo "Connected:"
+	w
+	echo "\n"
+	echo "Disk and Memory Usage:"
+	df -h
