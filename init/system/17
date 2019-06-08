@@ -1,1 +1,0 @@
-ssh -p <port> <username>@<hostname/ip>

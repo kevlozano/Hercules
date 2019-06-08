@@ -1,1 +1,0 @@
-by using cat in /etc/resolv.conf we can see the file that contains the IP of theDNS server we're using. Also, as stated on the file, we can use the command scutil --dns to see by resolver.

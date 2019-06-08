@@ -1,2 +1,0 @@
-useradd <username>
-passwd <username>

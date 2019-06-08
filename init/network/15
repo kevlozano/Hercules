@@ -1,3 +1,0 @@
-echo 'intra.42.fr 46.19.122.85' >> /etc/hosts
-
-doing that adds the reroute to the hosts file, but we dont have permission.

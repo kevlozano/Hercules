@@ -1,3 +1,0 @@
-#nslookup 10.112.7.5 | grep "name = " | cut -d " " -f 3 (ip obtained with 12)
-
-e1z2r7p5.42.us.org.
